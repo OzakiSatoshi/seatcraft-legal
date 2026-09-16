@@ -79,7 +79,7 @@ spreads one seating chart over several sheets at a larger size.
 
 A tag can be set to group together, spread apart, or neither — only one of the three.
 Both at once cannot be satisfied, so the app keeps them exclusive. If you need the two
-behaviours, split the tag in two.
+behaviors, split the tag in two.
 
 ### Requests and bug reports
 

@@ -41,7 +41,7 @@ the respective store. All the app receives back is whether the purchase was made
 
 ## Analytics and advertising
 
-The app performs no analytics, no behavioural tracking and no advertising, and contains
+The app performs no analytics, no behavioral tracking and no advertising, and contains
 no SDK for any of them.
 
 ## Backups
